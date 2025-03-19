@@ -1,4 +1,7 @@
-### study-of-basic-gates
+
+### Name:Nishalini
+### Reg No:212224040222
+# Exp 1 : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 
 **AIM:** 
 
@@ -64,16 +67,23 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot 2025-03-18 113350 (2)](https://github.com/user-attachments/assets/95da2e11-ea21-4744-8f85-96ab892be410)
 
- Developed by: RegisterNumber: 
+
  
-**Logic symbol & Truthtable**
+**Truthtable**
 
-**RTL realization Output:** 
+![e54c74e1-03ff-4424-b205-6b91becc93e7](https://github.com/user-attachments/assets/b8f96846-702e-4ab7-b127-10184d69addb)
 
-**RTL**
+**RTL:** 
+
+![Screenshot 2025-03-18 113727 (1)](https://github.com/user-attachments/assets/7b60e852-9b97-43f9-91c9-11c8d226dd1d)
+
+**waveform**
+
+![Screenshot 2025-03-18 114434 (1)](https://github.com/user-attachments/assets/1aeadea5-5051-4f6a-9996-388cf83c235f)
 
 **Result:**
+ Verification of the truth table of logic gates in Quartus II using Verilog programm is done successfully.
 
 
