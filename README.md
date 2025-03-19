@@ -84,6 +84,6 @@ Y= A⊕B
 ![Screenshot 2025-03-18 114434 (1)](https://github.com/user-attachments/assets/1aeadea5-5051-4f6a-9996-388cf83c235f)
 
 **Result:**
- Verification of the truth table of logic gates in Quartus II using Verilog programm is done successfully.
+ Verification of the truth table of logic gates in Quartus II using Verilog program is done successfully.
 
 
